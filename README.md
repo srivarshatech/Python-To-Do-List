@@ -98,4 +98,4 @@ This project helped me understand how to organize data using lists and dictionar
 
 ## Author
 
-Sri
+Sri Varsha Valluripalli
